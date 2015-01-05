@@ -112,8 +112,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:012864_0000_0F8B6E0140DFC528"/>
-            <pb facs="tcp:012864_0001_0F8B6E01F9183218" rendition="simple:additions"/>
+            <pb facs="unknown:012864_0000_0F8B6E0140DFC528"/>
+            <pb facs="unknown:012864_0001_0F8B6E01F9183218"
+                rendition="simple:additions"/>
             <p>THE SACRED MINISTER: A NEW POEM, In Five PARTS; Repreſenting his Qualifications for the MINISTRY, And his Life and Death in it.</p>
             <p>BY AURELIUS PRUDENTIUS, <hi>Americanus.</hi>
             </p>
@@ -137,7 +138,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:012864_0002_0F8B6E02CC9F23E0"/>
+            <pb facs="unknown:012864_0002_0F8B6E02CC9F23E0"/>
             <head>THE SACRED MINISTER: A NEW POEM.</head>
             <lg>
                <l>WHILE <hi>ſome</hi> the <hi>Hero ſing,</hi> with all his Skill,</l>
@@ -162,7 +163,7 @@
                <l>For they can only think and write of <hi>Love,</hi>
                </l>
                <l>
-                  <pb n="4" facs="tcp:012864_0003_0F8B6E038779DD38"/>How it ſprings up, and how it operates</l>
+                  <pb n="4" facs="unknown:012864_0003_0F8B6E038779DD38"/>How it ſprings up, and how it operates</l>
                <l>In Courts and Cities and calm rural Cots:</l>
             </lg>
             <lg>
@@ -204,7 +205,7 @@
                <l>And give it ſtrength to reach it's noble End.</l>
             </lg>
             <lg>
-               <pb n="5" facs="tcp:012864_0004_0F8B6E055ADFA768"/>
+               <pb n="5" facs="unknown:012864_0004_0F8B6E055ADFA768"/>
                <l>The Prophet, who of Royal Lineage came,</l>
                <l>But, through the Grace Divine, more dignify'd,</l>
                <l>
@@ -258,7 +259,7 @@
                </l>
             </lg>
             <lg>
-               <pb n="6" facs="tcp:012864_0005_0F8B6E0778902DC8"/>
+               <pb n="6" facs="unknown:012864_0005_0F8B6E0778902DC8"/>
                <l>Reviving Tidings to the deadned Man!</l>
                <l>He's rais'd from death, and finds new Life and Strength:</l>
                <l>
@@ -311,7 +312,7 @@
                <l>On them that are <hi>rebellious</hi> Sons of Men:</l>
             </lg>
             <lg>
-               <pb n="7" facs="tcp:012864_0006_0F8B6E08445DB4D0"/>
+               <pb n="7" facs="unknown:012864_0006_0F8B6E08445DB4D0"/>
                <l>As Kings, when crown'd, with lib'ral Hand diſpenſe</l>
                <l>Their Coronation Medals on the Croud.</l>
                <l>And HE, who freely diſſipates theſe Gifts,</l>
@@ -351,7 +352,7 @@
                   <l>From worldly Paſſions and from ſenſual Luſts.</l>
                   <l>Entirely and forever ſhould his All</l>
                   <l>
-                     <pb n="8" facs="tcp:012864_0007_0F8B6E0A5A608488"/>Be yielded to his Saviour, that his Whole</l>
+                     <pb n="8" facs="unknown:012864_0007_0F8B6E0A5A608488"/>Be yielded to his Saviour, that his Whole</l>
                   <l>May ſacred be to HIM, and by HIM own'd.</l>
                </lg>
                <lg>
@@ -394,7 +395,7 @@
                   <l>And, to thy Will, completely all conform.</l>
                </lg>
                <lg>
-                  <pb n="9" facs="tcp:012864_0008_0F8B6E0AFA62D2B8"/>
+                  <pb n="9" facs="unknown:012864_0008_0F8B6E0AFA62D2B8"/>
                   <l>Now Earth I leave; and Creatures I renounce:</l>
                   <l>They ſhall not hence my choſen Portion be:</l>
                   <l>My Saviour GOD is my moſt happy Choice:</l>
@@ -433,7 +434,7 @@
                   <l>Not yet <hi>inſtructed Scribes:</hi> In firm, unfledg'd,</l>
                   <l>They have the Neſt forſook, and flutter'd off:</l>
                   <l>
-                     <pb n="10" facs="tcp:012864_0009_0F8B6E0DA9A35510"/>And yet, for them, have great Aſſemblies met:</l>
+                     <pb n="10" facs="unknown:012864_0009_0F8B6E0DA9A35510"/>And yet, for them, have great Aſſemblies met:</l>
                   <l>The high, the low, the rich and poor have come</l>
                   <l>To hear the chirping of the harmleſs Doves:</l>
                   <l>And, as they hear, they're charm'd; and, with the View,</l>
@@ -473,7 +474,7 @@
                   <l>And may it fairly unto others ſhew.</l>
                </lg>
                <lg>
-                  <pb n="11" facs="tcp:012864_0010_0F8B6E0FC6B23FA8"/>
+                  <pb n="11" facs="unknown:012864_0010_0F8B6E0FC6B23FA8"/>
                   <l>This is right Conduct: While too many ſlight</l>
                   <l>Such Care and Toil, and quite contented are,</l>
                   <l>That any, Senſe, ſhould gather for their Uſe.</l>
@@ -514,7 +515,7 @@
                   <l>In Scripture glanc'd at, they ſhould well diſcern.</l>
                </lg>
                <lg>
-                  <pb n="12" facs="tcp:012864_0011_0F8B6E115A08B410"/>
+                  <pb n="12" facs="unknown:012864_0011_0F8B6E115A08B410"/>
                   <l>The Men unlearned can't theſe Things explain:</l>
                   <l>For they are far beyond their narrow Ken:</l>
                   <l>If therefore they preſume t' interpret them,</l>
@@ -550,7 +551,7 @@
                   <l>He, in his haſty Way, will ſomething get;</l>
                   <l>And, on the next day, come with eaſy Air</l>
                   <l>
-                     <pb n="13" facs="tcp:012864_0012_0F8B6E1323012E80"/>And face unmeaning to bring Crudities:</l>
+                     <pb n="13" facs="unknown:012864_0012_0F8B6E1323012E80"/>And face unmeaning to bring Crudities:</l>
                   <l>When the faint Flock, if not diſpos'd to reſt,</l>
                   <l>Look for their Food, and longing look: But ah!</l>
                   <l>They chiefly have but Words; and Words are Wind.</l>
@@ -600,7 +601,7 @@
                   </l>
                   <l>It rings: It tolls: He gravely walks along,</l>
                   <l>
-                     <pb n="14" facs="tcp:012864_0013_0F8B6E134B29D578"/>And, with Mind Heav'nwards, to his Deſk repairs:</l>
+                     <pb n="14" facs="unknown:012864_0013_0F8B6E134B29D578"/>And, with Mind Heav'nwards, to his Deſk repairs:</l>
                   <l>Reaching that Place, as well as going there,</l>
                   <l>He lifts his Soul, as flies the winged Dart:</l>
                   <l>To Heav'n it goes, ſolliciting its Aid,</l>
@@ -640,7 +641,7 @@
                   <l>May come to GOD by CHRIST, and bleſſed prove.</l>
                </lg>
                <lg>
-                  <pb n="15" facs="tcp:012864_0014_0F8B6E13FB9042B0"/>
+                  <pb n="15" facs="unknown:012864_0014_0F8B6E13FB9042B0"/>
                   <l>The Manner of his ſpeaking is moſt plain;</l>
                   <l>And yet adapted to the Truths he brings.</l>
                   <l>When he Religion's Doctrines, and its Laws,</l>
@@ -680,7 +681,7 @@
                   <l>And yet in Danger of perpetual Woes,</l>
                   <l>Theſe, by perſuaſive Motives, taught by CHRIST,</l>
                   <l>
-                     <pb n="16" facs="tcp:012864_0015_0F8B6E14E1A63A30"/>He wooes to Wiſdom, Virtue, Happineſs.</l>
+                     <pb n="16" facs="unknown:012864_0015_0F8B6E14E1A63A30"/>He wooes to Wiſdom, Virtue, Happineſs.</l>
                   <l>And ſince mere Suaſions will not gain theſe Ends,</l>
                   <l>He lifts his Prayer, that Energy Divine</l>
                   <l>May, to his Toil, a proſperous Iſſue give.</l>
@@ -718,7 +719,7 @@
                   <l>He, to ſerve GOD and Men, is fitted well.</l>
                </lg>
                <lg>
-                  <pb n="17" facs="tcp:012864_0016_0F8B6E15B133C788"/>
+                  <pb n="17" facs="unknown:012864_0016_0F8B6E15B133C788"/>
                   <l>Friends he would have: But he's afraid of <hi>Theſe,</hi>
                   </l>
                   <l>Leſt they ſhould ſteal away his precious Time:</l>
@@ -756,7 +757,7 @@
                   <l>And, when, by good Advice and prudent Care,</l>
                   <l>From <hi>Theſe</hi> he's freed; he with new Vigour ther.</l>
                   <l>
-                     <pb n="18" facs="tcp:012864_0017_0F8B6E166B0AA958"/>Goes to his Labours, and makes ſuch Diſpatch,</l>
+                     <pb n="18" facs="unknown:012864_0017_0F8B6E166B0AA958"/>Goes to his Labours, and makes ſuch Diſpatch,</l>
                   <l>That he redeems the Hours he grieving ſpent.</l>
                </lg>
                <lg>
@@ -805,7 +806,7 @@
                   <l>This Miniſter is rarely ſeen abroad;</l>
                   <l>But, when he goes, treats all with Courteſy:</l>
                   <l>
-                     <pb n="19" facs="tcp:012864_0018_0F8B6E170F348078"/>Whether, in Houſe or Streets, he any ſees,</l>
+                     <pb n="19" facs="unknown:012864_0018_0F8B6E170F348078"/>Whether, in Houſe or Streets, he any ſees,</l>
                   <l>To all he <hi>good</hi> and ſweet <hi>Behaviour</hi> ſhews.</l>
                   <l>As he Relations various ſuſtains,</l>
                   <l>In all <hi>Theſe</hi> well, he's careful, to conduct.</l>
@@ -858,7 +859,7 @@
                   </l>
                   <l>And hence he ſtill on the Redeemer truſts</l>
                   <l>
-                     <pb n="20" facs="tcp:012864_0019_0F8B6E17E1A269A0"/>For Pardon and Acceptance with his GOD,</l>
+                     <pb n="20" facs="unknown:012864_0019_0F8B6E17E1A269A0"/>For Pardon and Acceptance with his GOD,</l>
                   <l>And a ſure Title to immortal Bliſs.</l>
                </lg>
                <lg>
@@ -903,7 +904,7 @@
                   <l>And, for it's coming, daily he prepares.</l>
                   <l>Thoſe Things, that, in his laſt Hours, may give Pain,</l>
                   <l>
-                     <pb n="21" facs="tcp:012864_0020_0F8B6E18842B0C10"/>He, as the Gates of Hell, with Care avoids:</l>
+                     <pb n="21" facs="unknown:012864_0020_0F8B6E18842B0C10"/>He, as the Gates of Hell, with Care avoids:</l>
                   <l>And he, with Care, will all thoſe Things perform,</l>
                   <l>Which, well perform'd, he will, when dying, wiſh.</l>
                   <l>He every Office does of Righteouſneſs,</l>
@@ -944,7 +945,7 @@
                      <hi>To follow the Redeemer;</hi> great and fair,</l>
                   <l>Beyond the human or Angelic Hoſts:</l>
                   <l>
-                     <pb n="22" facs="tcp:012864_0021_0F8B6E193B007630"/>And, if they aught have ſeen in him amiſs,</l>
+                     <pb n="22" facs="unknown:012864_0021_0F8B6E193B007630"/>And, if they aught have ſeen in him amiſs,</l>
                   <l>All this he kindly cautions to avoid.</l>
                </lg>
                <lg>
@@ -999,7 +1000,7 @@
                <hi>N. B.</hi> In Page 14, Line 3d from the Bottom, the Pronoun <hi>he</hi> is wanting.</p>
          </div>
          <div type="table_of_contents">
-            <pb facs="tcp:012864_0022_0F8B6E1B549AB050"/>
+            <pb facs="unknown:012864_0022_0F8B6E1B549AB050"/>
             <head>A Table of the CONTENTS.</head>
             <list>
                <item>The Subject preferred and choſen.</item>
